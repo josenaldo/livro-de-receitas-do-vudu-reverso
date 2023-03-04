@@ -20,7 +20,7 @@
 
 - [Farofa Lampião e Julieta](farofa-lampiao-e-julieta.md)
   - A melhor farofa do planeta! Leva carnes, queijo e goiabada!
-- [Macarrão Tunado]
+- [Macarrão Tunado](macarrao-tunado.md)
   - Macarrãozão mata fome da hora, com atum e pimentão
 - X-AVC - Em breve
   - Hamburguer tenebroso entope veia

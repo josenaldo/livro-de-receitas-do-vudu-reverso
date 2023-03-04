@@ -1,6 +1,8 @@
 # Macarrão Tunado
 
 ![Macarrão tunado](https://via.placeholder.com/600x400)
+<sup>Na próxima vez que eu fizer, ponho a receita aqui</sup>
+
 Inventador: Vudu Reverso
 
 ## Ingredientes
