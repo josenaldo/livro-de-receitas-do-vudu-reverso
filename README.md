@@ -7,7 +7,7 @@
 
 ## 🏠 [Homepage](https://josenaldo.github.io/livro-de-receitas-do-vudu-reverso/)
 
-## Author
+## Autor
 
 👤 **Josenaldo de Oliveira Matos Filho**
 
@@ -16,7 +16,7 @@
 - Github: [@josenaldo](https://github.com/josenaldo)
 - LinkedIn: [@josenaldo](https://linkedin.com/in/josenaldo)
 
-## Receipts
+## Receitas
 
 - [Farofa Lampião e Julieta](farofa-lampiao-e-julieta.md)
   - A melhor farofa do planeta! Leva carnes, queijo e goiabada!
@@ -25,9 +25,3 @@
 - X-AVC - Em breve
   - Hamburguer tenebroso entope veia
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
