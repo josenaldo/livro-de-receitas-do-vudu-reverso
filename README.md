@@ -5,7 +5,7 @@
 
 > O livro de receitas malditas do Vudu Reverso. Coma por sua conta e risco. Eu perdi o rim da minha sogra comendo isso.
 
-## 🏠 [Homepage](https://livropog.com.br)
+## 🏠 [Homepage](https://josenaldo.github.io/livro-de-receitas-do-vudu-reverso/)
 
 ## Author
 
@@ -19,6 +19,11 @@
 ## Receipts
 
 - [Farofa Lampião e Julieta](farofa-lampiao-e-julieta.md)
+  - A melhor farofa do planeta! Leva carnes, queijo e goiabada!
+- [Macarrão Tunado]
+  - Macarrãozão mata fome da hora, com atum e pimentão
+- X-AVC - Em breve
+  - Hamburguer tenebroso entope veia
 
 ## Show your support
 
