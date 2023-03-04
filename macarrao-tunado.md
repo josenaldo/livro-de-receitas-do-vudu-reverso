@@ -46,4 +46,4 @@ Inventador: Vudu Reverso
 
 Aprecie sem moderação
 
-[Home](/)
+[Home](/livro-de-receitas-do-vudu-reverso/)

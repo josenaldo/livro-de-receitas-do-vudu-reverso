@@ -26,4 +26,4 @@ Inventador: Vudu Reverso
 
 Coma até o bucho pedir arrego!
 
-[Home](/)
+[Home](/livro-de-receitas-do-vudu-reverso/)
